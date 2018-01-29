@@ -17,3 +17,10 @@ BN层还有一个好处，就是使得你的网络对一些超参数，包括学
 ![](https://github.com/cryer/Coursera_deep_learning/raw/master/image/17.png)
 
 ![](https://github.com/cryer/Coursera_deep_learning/raw/master/image/18.png)
+
+
+## TensorFlow
+
+另外本周介绍了深度学习框架Tensorflow的大概使用方法，作业也是熟悉TF的相关用法，直接给出我的代码，不多介绍，这部分是TF的基础，没有难度，第一次接触可能需
+要多看看。
+
