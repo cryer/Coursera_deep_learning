@@ -7,3 +7,6 @@
 
 
 关于训练数据可以自行下载一下。
+
+<audio src="https://github.com/cryer/Coursera_deep_learning/tree/master/sequence%20model/week1/Improvise%20a%20Jazz%20Solo/my_music.midi" controls="controls">
+</audio>
